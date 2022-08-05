@@ -1,22 +1,27 @@
-# Tienda de Camisetas 👕
-La finalidad de este proyecto es desarrollar una tienda de ropa con todas las funcionalidades para su compra. Desde el control de usuarios, gestion de los productos por parte del administrador, registro, pasando por añadir camisetas al carrito, hasta finalizar la compra.
+# T-shirt shop 👕
 
-## Comenzando 🚀
-Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+The purpose of this project is to develop a clothing store with all the functionalities for your purchase. From user control, management of products by the administrator, registration, through adding t-shirts to the cart, to finalize the purchase.
 
-## Instalación 🔧
-- Clonar el repositorio en tu disco local ⬇️
-- Al clonar el proyecto debes guardarlo en la carpeta raiz de tu servidor local.
-- Buscar el archivo llamado database.sql en la raiz del proyecto, el cual deberás de ejecutar su contenido en la base de datos MySQL. Este archivo creará la base de datos, tablas y registros de prueba iniciales.
-- Existe un usuario administrador ya creado para la gestion de la tienda
-  - user: admin@admin.com
-  - pass: admin
-- Levanta tu local server y prueba 😊
+## Starting 🚀
 
-## Construido con 🛠
+These instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.
+
+## Installation 🔧
+
+- Clone the repository on your local disk ⬇️ 
+- When cloning the project you must save it in the root folder of your local server. 
+- Find the file called database.sql in the root of the project, which you will have to execute its contents in the MySQL database. This file will create the initial test database, tables, and records. 
+- There is an administrator user already created for the management of the store
+  - user: admin@admin.com 
+  - pass: admin 
+- Raise your local server and try 😊
+
+## Built with 🛠
+
 - PHP 7
 - HTML5, CSS3
 - MySQL
 
-## Licencia 📄
-Este proyecto está bajo la Licencia (MIT)
+## License 📄
+
+This project is under License (MIT)
